@@ -1,3 +1,10 @@
+#  Why forked This repository?
+
+Bigdata Analyst requires some special ..... 
+
+Also, some dataset was needed to 
+
+
 # [퇴근후딴짓] 빅데이터 분석기사 실기 - 길벗 시나공 시리즈
  
 [![Python](https://img.shields.io/badge/Python-3.10.12-blue)]()
